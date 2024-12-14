@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9405060837",
+    "project_id": "fynd-app-406902",
+    "storage_bucket": "fynd-app-406902.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9405060837:android:a0cad1de4547a1f16c660c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7WetpRvMS6bFvdr0JobA1UeOazY33ZQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
